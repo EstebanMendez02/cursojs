@@ -56,5 +56,3 @@
 	Potecito de helado con confites: $2.9
 	Pote de 1/4kg : $2.9
 */
-
-dineroRob
